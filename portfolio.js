@@ -10,26 +10,26 @@
 
 window.PORTFOLIO = {
   // ---- About you -------------------------------------------------------
-  name: 'Your Name',
-  headline: 'Im shipping my first site Test',
-  intro: 'One line about what you do and what you are learning right now.',
+  name: 'Charles',
+  headline: 'Software Engineer and Cybsercurity Enthusiast',
+  intro: 'You cannot protect system properly if you do not know how to build them.',
 
   // Your photo. Upload it to the "images" folder, then write its name here,
   // for example 'images/me.jpg'.
   photo: 'images/avatar.svg',
 
-  email: 'you@example.com',
+  email: 'cfo2024@plm.edu.ph@',
 
   // The two short paragraphs in the About section.
   about: [
-    'Write two or three sentences about who you are and what you enjoy building.',
-    'Write what you are learning next, and the kind of work or team you are looking for.',
+    'I build custom software tailored to the needs of my clients.',
+    'I plan to dual-boot Windows and Linux (Ubuntu) to start learning more about servers.',
   ],
 
   // ---- Your links ----------------------------------------------------
   // icon can be: 'github', 'linkedin', 'x', 'youtube', 'website'
   socials: [
-    { label: 'GitHub', url: 'https://github.com/your-username', icon: 'github' },
+    { label: 'GitHub', url: 'https://github.com/reiisuu', icon: 'github' },
     { label: 'LinkedIn', url: 'https://www.linkedin.com/in/your-name', icon: 'linkedin' },
   ],
 
