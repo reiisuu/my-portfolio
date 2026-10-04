@@ -11,7 +11,7 @@
 window.PORTFOLIO = {
   // ---- About you -------------------------------------------------------
   name: 'Your Name',
-  headline: 'Your headline here. Keep it short.',
+    headline: 'I'm shipping my first site',
   intro: 'One line about what you do and what you are learning right now.',
 
   // Your photo. Upload it to the "images" folder, then write its name here,
