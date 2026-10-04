@@ -18,7 +18,7 @@ window.PORTFOLIO = {
   // for example 'images/me.jpg'.
   photo: 'images/avatar.svg',
 
-  email: 'cfo2024@plm.edu.ph@',
+  email: 'cfo2024@plm.edu.ph',
 
   // The two short paragraphs in the About section.
   about: [
